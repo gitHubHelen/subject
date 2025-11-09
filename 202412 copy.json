@@ -1,0 +1,874 @@
+[
+    {
+        "id": 1,
+        "title": "点击下列哪个按钮，可以将红框处的程序放大？（ ）",
+        "image": "202412图形化一级.files/202412图形化一级28.png",
+        "options": [
+            {
+                "id": "A",
+                "image": "202412图形化一级.files/202412图形化一级66.png"
+            },
+            {
+                "id": "B",
+                "image": "202412图形化一级.files/202412图形化一级103.png"
+            },
+            {
+                "id": "C",
+                "image": "202412图形化一级.files/202412图形化一级140.png"
+            },
+            {
+                "id": "D",
+                "image": "202412图形化一级.files/202412图形化一级177.png"
+            }
+        ],
+        "examId": "20240820-gh-001",
+        "type": "单选题",
+        "standardAnswer": "A",
+        "difficulty": "一般",
+        "analysis": "A选项可以放大程序或积木，B选项可以缩小程序或积木，C选项可以将程序或积木还原为默认大小，D选项可以全屏显示舞台区。",
+        "studentAnswer": "A",
+        "studentScore": 2,
+        "graded": "已评分",
+        "evaluation": ""
+    },
+    {
+        "id": 2,
+        "title": "下列哪个按钮可以让舞台区变为小舞台模式？（ ）",
+        "image": null,
+        "options": [
+            {
+                "id": "A",
+                "image": "202412图形化一级.files/202412图形化一级405.png"
+            },
+            {
+                "id": "B",
+                "image": "202412图形化一级.files/202412图形化一级442.png"
+            },
+            {
+                "id": "C",
+                "image": "202412图形化一级.files/202412图形化一级479.png"
+            },
+            {
+                "id": "D",
+                "image": "202412图形化一级.files/202412图形化一级516.png"
+            }
+        ],
+        "examId": "20240820-gh-002",
+        "type": "单选题",
+        "standardAnswer": "A",
+        "difficulty": "容易",
+        "analysis": "舞台区以小舞台模式显示时舞台区域变小，编程区域变大。 B选项是正常模式，舞台区域与编程区域大小适中；C选项是全屏模式，舞台区域变大，编程区域消失；D选项是取消全屏模式。",
+        "studentAnswer": "D",
+        "studentScore": 0,
+        "graded": "已评分",
+        "evaluation": ""
+    },
+    {
+        "id": 3,
+        "title": "如下图所示，下列哪个区域是角色列表区？（ ）",
+        "image": "202412图形化一级.files/202412图形化一级734.png",
+        "options": [
+            {
+                "id": "A",
+                "text": "A区域"
+            },
+            {
+                "id": "B",
+                "text": "B区域"
+            },
+            {
+                "id": "C",
+                "text": "C区域"
+            },
+            {
+                "id": "D",
+                "text": "D区域"
+            }
+        ],
+        "examId": "20240820-gh-003",
+        "type": "单选题",
+        "standardAnswer": "D",
+        "difficulty": "容易",
+        "analysis": "A区域是积木区，B区域是脚本区，C区域是舞台区，D区域是角色区。",
+        "studentAnswer": "D",
+        "studentScore": 2,
+        "graded": "已评分",
+        "evaluation": ""
+    },
+    {
+        "id": 4,
+        "title": "舞台初始背景为第一个背景，按下空格键后，想让舞台切换为第二个背景，下列哪个选项不能实现？（ ）",
+        "image": "202412图形化一级.files/202412图形化一级1081.png",
+        "options": [
+            {
+                "id": "A",
+                "image": "202412图形化一级.files/202412图形化一级1119.png"
+            },
+            {
+                "id": "B",
+                "image": "202412图形化一级.files/202412图形化一级1156.png"
+            },
+            {
+                "id": "C",
+                "image": "202412图形化一级.files/202412图形化一级1193.png"
+            },
+            {
+                "id": "D",
+                "image": "202412图形化一级.files/202412图形化一级1230.png"
+            }
+        ],
+        "examId": "20240820-gh-009",
+        "type": "单选题",
+        "standardAnswer": "B",
+        "difficulty": "一般",
+        "analysis": "最后一个背景的下一个背景是第一个背景。",
+        "studentAnswer": "B",
+        "studentScore": 2,
+        "graded": "已评分",
+        "evaluation": ""
+    },
+    {
+        "id": 5,
+        "title": "设计一个潜水员海底探险的程序，选择下列哪个背景最合适？（ ）",
+        "image": null,
+        "options": [
+            {
+                "id": "A",
+                "image": "202412图形化一级.files/202412图形化一级1426.png"
+            },
+            {
+                "id": "B",
+                "image": "202412图形化一级.files/202412图形化一级1463.png"
+            },
+            {
+                "id": "C",
+                "image": "202412图形化一级.files/202412图形化一级1500.png"
+            },
+            {
+                "id": "D",
+                "image": "202412图形化一级.files/202412图形化一级1537.png"
+            }
+        ],
+        "examId": "20240820-gh-011",
+        "type": "单选题",
+        "standardAnswer": "C",
+        "difficulty": "容易",
+        "analysis": "潜水员海底探险的小程序中，需要有潜水员角色和海底的背景。",
+        "studentAnswer": "C",
+        "studentScore": 2,
+        "graded": "已评分",
+        "evaluation": ""
+    },
+    {
+        "id": 6,
+        "title": "想要录制一段声音，应该点击下列哪个按钮？（ ）",
+        "image": "202412图形化一级.files/202412图形化一级1699.png",
+        "options": [
+            {
+                "id": "A",
+                "image": "202412图形化一级.files/202412图形化一级1737.png"
+            },
+            {
+                "id": "B",
+                "image": "202412图形化一级.files/202412图形化一级1774.png"
+            },
+            {
+                "id": "C",
+                "image": "202412图形化一级.files/202412图形化一级1811.png"
+            },
+            {
+                "id": "D",
+                "image": "202412图形化一级.files/202412图形化一级1848.png"
+            }
+        ],
+        "examId": "20240820-gh-026",
+        "type": "单选题",
+        "standardAnswer": "C",
+        "difficulty": "容易",
+        "analysis": "点击声音菜单中的录制按钮，可以录制声音。",
+        "studentAnswer": "C",
+        "studentScore": 2,
+        "graded": "已评分",
+        "evaluation": ""
+    },
+    {
+        "id": 7,
+        "title": "击球员角色共有4个造型，运行程序后，下列说法正确的是？（ ）",
+        "image": "202412图形化一级.files/202412图形化一级2009.png",
+        "options": [
+            {
+                "id": "A",
+                "text": "击球员在播放声音的过程中，依次切换击球动作"
+            },
+            {
+                "id": "B",
+                "text": "击球员在播放完声音后，再依次切换击球动作"
+            },
+            {
+                "id": "C",
+                "text": "击球员在依次切换击球动作后，再播放声音"
+            },
+            {
+                "id": "D",
+                "text": "击球员只会播放声音，并不会切换击球动作"
+            }
+        ],
+        "examId": "20240820-gh-027",
+        "type": "单选题",
+        "standardAnswer": "B",
+        "difficulty": "容易",
+        "analysis": "程序按顺序从上到下执行，先播放声音“Dance Magic”，等待声音完整播完后，才会执行切换击球造型的操作。",
+        "studentAnswer": "B",
+        "studentScore": 2,
+        "graded": "已评分",
+        "evaluation": ""
+    },
+    {
+        "id": 8,
+        "title": "程序运行前声音音量为100，按下空格键后，音量会变为多少？（ ）",
+        "image": "202412图形化一级.files/202412图形化一级2432.png",
+        "options": [
+            {
+                "id": "A",
+                "text": "10"
+            },
+            {
+                "id": "B",
+                "text": "30"
+            },
+            {
+                "id": "C",
+                "text": "60"
+            },
+            {
+                "id": "D",
+                "text": "100"
+            }
+        ],
+        "examId": "20240820-gh-028",
+        "type": "单选题",
+        "standardAnswer": "C",
+        "difficulty": "一般",
+        "analysis": "音效的增减不会影响音量的高低。声音音量值的范围为0-100，按下空格键后音量会从100变为60。",
+        "studentAnswer": "C",
+        "studentScore": 2,
+        "graded": "已评分",
+        "evaluation": ""
+    },
+    {
+        "id": 9,
+        "title": "下列哪个选项可以让小狗面向右，倒退走路？（ ）",
+        "image": "202412图形化一级.files/202412图形化一级2768.png",
+        "options": [
+            {
+                "id": "A",
+                "image": "202412图形化一级.files/202412图形化一级2806.png"
+            },
+            {
+                "id": "B",
+                "image": "202412图形化一级.files/202412图形化一级2843.png"
+            },
+            {
+                "id": "C",
+                "image": "202412图形化一级.files/202412图形化一级2880.png"
+            },
+            {
+                "id": "D",
+                "image": "202412图形化一级.files/202412图形化一级2917.png"
+            }
+        ],
+        "examId": "20240823-ws-004",
+        "type": "单选题",
+        "standardAnswer": "A",
+        "difficulty": "一般",
+        "analysis": "选项A运行程序后让小狗目视着桌子向后倒着走路；选项B运行程序后让小狗目视着桌子向前正着走路；选项C运行程序后让小狗倒立尾巴朝向桌子，正向桌子走路；选项D运行程序后让小狗倒立尾巴朝向桌子，反向桌子走路。因此选项A正确。",
+        "studentAnswer": "D",
+        "studentScore": 0,
+        "graded": "已评分",
+        "evaluation": ""
+    },
+    {
+        "id": 10,
+        "title": "篮球的初始位置如下图一所示，下列哪个选项可以实现，按下空格键，篮球会从球筐中掉落到地上再弹回空中？（ ）",
+        "image": "202412图形化一级.files/202412图形化一级3189.png",
+        "options": [
+            {
+                "id": "A",
+                "image": "202412图形化一级.files/202412图形化一级3227.png"
+            },
+            {
+                "id": "B",
+                "image": "202412图形化一级.files/202412图形化一级3264.png"
+            },
+            {
+                "id": "C",
+                "image": "202412图形化一级.files/202412图形化一级3301.png"
+            },
+            {
+                "id": "D",
+                "image": "202412图形化一级.files/202412图形化一级3338.png"
+            }
+        ],
+        "examId": "20240823-ws-008",
+        "type": "单选题",
+        "standardAnswer": "A",
+        "difficulty": "一般",
+        "analysis": "选项A按下空格键后，篮球会从球筐中掉落到地上再弹回空中，符合题意；选项B按下空格键后，篮球会从球筐中弹到舞台左上角；选项C按下空格键后，篮球会从球筐中掉落到地上再移动到舞台右侧；选项D，按下空格键后，篮球会从球筐中掉落到地上再移动到舞台左侧。因此选项A正确。",
+        "studentAnswer": "A",
+        "studentScore": 2,
+        "graded": "已评分",
+        "evaluation": ""
+    },
+    {
+        "id": 11,
+        "title": "角色初始位置在舞台左侧，下列哪个选项可以实现，按下空格键后，角色从舞台左侧移动到黑板前，切换成下一个造型？（ ）",
+        "image": "202412图形化一级.files/202412图形化一级3635.png",
+        "options": [
+            {
+                "id": "A",
+                "image": "202412图形化一级.files/202412图形化一级3673.png"
+            },
+            {
+                "id": "B",
+                "image": "202412图形化一级.files/202412图形化一级3710.png"
+            },
+            {
+                "id": "C",
+                "image": "202412图形化一级.files/202412图形化一级3747.png"
+            },
+            {
+                "id": "D",
+                "image": "202412图形化一级.files/202412图形化一级3784.png"
+            }
+        ],
+        "examId": "20240823-ws-009",
+        "type": "单选题",
+        "standardAnswer": "B",
+        "difficulty": "一般",
+        "analysis": "选项A角色被点击后，角色等待一会后从舞台左侧移动到黑板前，再等待一会后切换下一个造型；选项B按下空格键后，角色从舞台左侧移动到黑板前，再等待一会后切换下一个造型，符合题意；选项C角色被点击后，角色等待一会后切换下一个造型，再等待一会后从舞台左侧移动到黑板前；选项D按下空格键后，角色等待一会后切换下一个造型，再等待一会后从舞台左侧移动到黑板前。因此选项B正确。",
+        "studentAnswer": "B",
+        "studentScore": 2,
+        "graded": "已评分",
+        "evaluation": ""
+    },
+    {
+        "id": 12,
+        "title": "大象初始位置如下图一所示，下列哪个选项可以实现，按下空格键后，大象向前移动一段距离，旋转一定角度后吃到红苹果？（ ）",
+        "image": "202412图形化一级.files/202412图形化一级4134.png",
+        "options": [
+            {
+                "id": "A",
+                "image": "202412图形化一级.files/202412图形化一级4172.png"
+            },
+            {
+                "id": "B",
+                "image": "202412图形化一级.files/202412图形化一级4209.png"
+            },
+            {
+                "id": "C",
+                "image": "202412图形化一级.files/202412图形化一级4246.png"
+            },
+            {
+                "id": "D",
+                "image": "202412图形化一级.files/202412图形化一级4283.png"
+            }
+        ],
+        "examId": "20240823-ws-010",
+        "type": "单选题",
+        "standardAnswer": "C",
+        "difficulty": "一般",
+        "analysis": "选项A按下空格键后，大象向舞台左侧移动后能吃到橙子；选项B按下空格键后，大象向舞台左侧移动后能吃到草莓；选项C按下空格键后，大象向舞台右侧移动后能吃到苹果，符合题意；选项D按下空格键后，大象向舞台右侧移动后能吃到香蕉。因此选项C正确。",
+        "studentAnswer": "D",
+        "studentScore": 0,
+        "graded": "已评分",
+        "evaluation": ""
+    },
+    {
+        "id": 13,
+        "title": "角色初始造型是“第一个造型”，下列哪个选项能让角色切换到“第三个造型”？（ ）",
+        "image": "202412图形化一级.files/202412图形化一级4551.png",
+        "options": [
+            {
+                "id": "A",
+                "image": "202412图形化一级.files/202412图形化一级4589.png"
+            },
+            {
+                "id": "B",
+                "image": "202412图形化一级.files/202412图形化一级4626.png"
+            },
+            {
+                "id": "C",
+                "image": "202412图形化一级.files/202412图形化一级4663.png"
+            },
+            {
+                "id": "D",
+                "image": "202412图形化一级.files/202412图形化一级4700.png"
+            }
+        ],
+        "examId": "20240823-ws-014",
+        "type": "单选题",
+        "standardAnswer": "C",
+        "difficulty": "一般",
+        "analysis": "根据题意，选项A和选项B会切换背景图片；选项D会切换到下一个造型就是第二个造型；选项C会切换到第三个造型，所以选择C可以实现效果。",
+        "studentAnswer": "C",
+        "studentScore": 2,
+        "graded": "已评分",
+        "evaluation": ""
+    },
+    {
+        "id": 14,
+        "title": "运行下列程序后，角色最后切换为哪个造型？（ ）",
+        "image": "202412图形化一级.files/202412图形化一级4900.png",
+        "options": [
+            {
+                "id": "A",
+                "text": "中长发"
+            },
+            {
+                "id": "B",
+                "text": "超短发"
+            },
+            {
+                "id": "C",
+                "text": "短发"
+            },
+            {
+                "id": "D",
+                "text": "长发"
+            }
+        ],
+        "examId": "20240823-ws-020",
+        "type": "单选题",
+        "standardAnswer": "C",
+        "difficulty": "一般",
+        "analysis": "根据题意，运行程序后，换成中长发后的下两个造型是超短发，换成超短发后的下一个造型是短发，换成短发后的下一个造型是中长发，换成长发后的下两个造型是短发。因此C选项正确。",
+        "studentAnswer": "C",
+        "studentScore": 2,
+        "graded": "已评分",
+        "evaluation": ""
+    },
+    {
+        "id": 15,
+        "title": "黄色珠子和蓝色珠子的排列顺序如下图所示，被红色盒子遮盖住的珠子颜色和排列顺序是什么样的呢？（ ）",
+        "image": "202412图形化一级.files/202412图形化一级5299.png",
+        "options": [
+            {
+                "id": "A",
+                "image": "202412图形化一级.files/202412图形化一级5337.png"
+            },
+            {
+                "id": "B",
+                "image": "202412图形化一级.files/202412图形化一级5374.png"
+            },
+            {
+                "id": "C",
+                "image": "202412图形化一级.files/202412图形化一级5411.png"
+            },
+            {
+                "id": "D",
+                "image": "202412图形化一级.files/202412图形化一级5448.png"
+            }
+        ],
+        "examId": "20240823-ws-024",
+        "type": "单选题",
+        "standardAnswer": "C",
+        "difficulty": "一般",
+        "analysis": "根据题意，观察这串珠子的排列规律，是两种珠子间隔排，1黄1蓝、2黄2蓝、3黄3蓝……也就是黄珠子和蓝珠子都是每次增加1颗，且颗数相同。那么第三组是3黄3蓝，已经有1颗蓝珠子在外面，所以应该有2颗蓝珠子在盒子里。第四组是4黄4蓝，有2颗黄珠子在外面，应该还有2颗黄珠子在盒子里面。因此C选项正确。",
+        "studentAnswer": "D",
+        "studentScore": 0,
+        "graded": "已评分",
+        "evaluation": ""
+    },
+    {
+        "id": 16,
+        "title": "“笑声”和“哭声”两个声音文件的时长不一样，下列哪个选项能实现同时并且完整播放“笑声”和“哭声”？（ ）",
+        "image": null,
+        "options": [
+            {
+                "id": "A",
+                "image": "202412图形化一级.files/202412图形化一级5795.png"
+            },
+            {
+                "id": "B",
+                "image": "202412图形化一级.files/202412图形化一级5832.png"
+            },
+            {
+                "id": "C",
+                "image": "202412图形化一级.files/202412图形化一级5869.png"
+            },
+            {
+                "id": "D",
+                "image": "202412图形化一级.files/202412图形化一级5906.png"
+            }
+        ],
+        "examId": "20240823-ws-028",
+        "type": "单选题",
+        "standardAnswer": "B",
+        "difficulty": "一般",
+        "analysis": "根据题意，选项A只能听到一声“滴”后立刻停止，无法实现同时播放完声音文件“笑声”和“哭声”效果；选项B实现同时播放完声音文件“笑声”和“哭声”效果；选项C和选项D都是声音文件“笑声”播放完后再播放声音文件“哭声”。因此B选项正确。",
+        "studentAnswer": "B",
+        "studentScore": 2,
+        "graded": "已评分",
+        "evaluation": ""
+    },
+    {
+        "id": 17,
+        "title": "在哪个角色下编写右图的程序，才能实现点击上衣变换造型？（ ）",
+        "image": "202412图形化一级.files/202412图形化一级6163.png",
+        "options": [
+            {
+                "id": "A",
+                "image": "202412图形化一级.files/202412图形化一级6202.png"
+            },
+            {
+                "id": "B",
+                "image": "202412图形化一级.files/202412图形化一级6239.png"
+            },
+            {
+                "id": "C",
+                "image": "202412图形化一级.files/202412图形化一级6276.png"
+            },
+            {
+                "id": "D",
+                "image": "202412图形化一级.files/202412图形化一级6313.png"
+            }
+        ],
+        "examId": "20240825-ldl-005",
+        "type": "单选题",
+        "standardAnswer": "A",
+        "difficulty": "较难",
+        "analysis": "实现的功能是“点击衣服变换造型”，那么程序要写在衣服角色下才能生效",
+        "studentAnswer": "A",
+        "studentScore": 2,
+        "graded": "已评分",
+        "evaluation": ""
+    },
+    {
+        "id": 18,
+        "title": "程序运行前的造型是小熊，背景是森林，运行一次右图所示的程序后，角色和背景正确的是？（ ）",
+        "image": "202412图形化一级.files/202412图形化一级6503.png",
+        "options": [
+            {
+                "id": "A",
+                "image": "202412图形化一级.files/202412图形化一级6543.png"
+            },
+            {
+                "id": "B",
+                "image": "202412图形化一级.files/202412图形化一级6580.png"
+            },
+            {
+                "id": "C",
+                "image": "202412图形化一级.files/202412图形化一级6617.png"
+            },
+            {
+                "id": "D",
+                "image": "202412图形化一级.files/202412图形化一级6654.png"
+            }
+        ],
+        "examId": "20240825-ldl-007",
+        "type": "单选题",
+        "standardAnswer": "C",
+        "difficulty": "较难",
+        "analysis": "阅读程序，执行换造型命令3次，换背景1次。造型切换三次变成螃蟹造型，背景切换1次是换成农场造型。",
+        "studentAnswer": "C",
+        "studentScore": 2,
+        "graded": "已评分",
+        "evaluation": ""
+    },
+    {
+        "id": 19,
+        "title": "程序运行前的造型是网球，按下一次空格后，会换成哪个造型？（ ）",
+        "image": "202412图形化一级.files/202412图形化一级6846.png",
+        "options": [
+            {
+                "id": "A",
+                "image": "202412图形化一级.files/202412图形化一级6885.png"
+            },
+            {
+                "id": "B",
+                "image": "202412图形化一级.files/202412图形化一级6922.png"
+            },
+            {
+                "id": "C",
+                "image": "202412图形化一级.files/202412图形化一级6959.png"
+            },
+            {
+                "id": "D",
+                "image": "202412图形化一级.files/202412图形化一级6996.png"
+            }
+        ],
+        "examId": "20240825-ldl-008",
+        "type": "单选题",
+        "standardAnswer": "A",
+        "difficulty": "较难",
+        "analysis": "角色现在的造型是网球，每按一次空格变换两次造型，造型会换为棒球造型。",
+        "studentAnswer": "A",
+        "studentScore": 2,
+        "graded": "已评分",
+        "evaluation": ""
+    },
+    {
+        "id": 20,
+        "title": "如下图所示，小猫初始方向面向北，要让小猫面向西，应该选择下列哪个选项的积木？（ ）",
+        "image": "202412图形化一级.files/202412图形化一级7184.png",
+        "options": [
+            {
+                "id": "A",
+                "image": "202412图形化一级.files/202412图形化一级7222.png"
+            },
+            {
+                "id": "B",
+                "image": "202412图形化一级.files/202412图形化一级7259.png"
+            },
+            {
+                "id": "C",
+                "image": "202412图形化一级.files/202412图形化一级7296.png"
+            },
+            {
+                "id": "D",
+                "image": "202412图形化一级.files/202412图形化一级7333.png"
+            }
+        ],
+        "examId": "20240825-ldl-015",
+        "type": "单选题",
+        "standardAnswer": "B",
+        "difficulty": "一般",
+        "analysis": "如图所示，北面在图形化编程中是0方向，南是180方向，西是-90方向，东是90方向。要让小猫面向西，那么应该面向-90。",
+        "studentAnswer": "B",
+        "studentScore": 2,
+        "graded": "已评分",
+        "evaluation": ""
+    },
+    {
+        "id": 21,
+        "title": "老鼠初始位置如下图所示，初始方向是面向上，每个正方形格子边长是100，下列哪个选项能让老鼠吃到奶酪？（ ）",
+        "image": "202412图形化一级.files/202412图形化一级7559.png",
+        "options": [
+            {
+                "id": "A",
+                "image": "202412图形化一级.files/202412图形化一级7597.png"
+            },
+            {
+                "id": "B",
+                "image": "202412图形化一级.files/202412图形化一级7634.png"
+            },
+            {
+                "id": "C",
+                "image": "202412图形化一级.files/202412图形化一级7671.png"
+            },
+            {
+                "id": "D",
+                "image": "202412图形化一级.files/202412图形化一级7708.png"
+            }
+        ],
+        "examId": "20240825-ldl-016",
+        "type": "单选题",
+        "standardAnswer": "D",
+        "difficulty": "一般",
+        "analysis": "要让小老鼠吃到蛋糕，首先需要验证当前方向移动100步，接着向-90方向移动100步，最后再向0方向移动100步。",
+        "studentAnswer": "D",
+        "studentScore": 2,
+        "graded": "已评分",
+        "evaluation": ""
+    },
+    {
+        "id": 22,
+        "title": "角色的初始造型如下图所示，下列哪个选项的程序和程序的运行效果是正确的？（ ）",
+        "image": "202412图形化一级.files/202412图形化一级7915.png",
+        "options": [
+            {
+                "id": "A",
+                "image": "202412图形化一级.files/202412图形化一级7953.png"
+            },
+            {
+                "id": "B",
+                "image": "202412图形化一级.files/202412图形化一级7991.png"
+            },
+            {
+                "id": "C",
+                "image": "202412图形化一级.files/202412图形化一级8029.png"
+            },
+            {
+                "id": "D",
+                "image": "202412图形化一级.files/202412图形化一级8067.png"
+            }
+        ],
+        "examId": "20240825-ldl-024",
+        "type": "单选题",
+        "standardAnswer": "D",
+        "difficulty": "较难",
+        "analysis": "角色的旋转模式不影响角色的方向，因此正确答案是D.",
+        "studentAnswer": "B",
+        "studentScore": 0,
+        "graded": "已评分",
+        "evaluation": ""
+    },
+    {
+        "id": 23,
+        "title": "小明从一楼上到二楼用了1分钟，他从一楼上到六楼，要几分钟？（ ）",
+        "image": null,
+        "options": [
+            {
+                "id": "A",
+                "text": "3"
+            },
+            {
+                "id": "B",
+                "text": "4"
+            },
+            {
+                "id": "C",
+                "text": "5"
+            },
+            {
+                "id": "D",
+                "text": "6"
+            }
+        ],
+        "examId": "20240825-ldl-31",
+        "type": "单选题",
+        "standardAnswer": "C",
+        "difficulty": "一般",
+        "analysis": "由题意知道他爬一层楼的时间是1分钟。从一楼上到六楼，他需要爬5层楼所以，他需要5分钟。",
+        "studentAnswer": "C",
+        "studentScore": 2,
+        "graded": "已评分",
+        "evaluation": ""
+    },
+    {
+        "id": 24,
+        "title": "图形化编程中的小猫会分身，最开始有1只小猫，经过1次分身后有2只，经过2次分身后有4只，经过3次分身后有几只小猫？（ ）",
+        "image": "202412图形化一级.files/202412图形化一级8600.png",
+        "options": [
+            {
+                "id": "A",
+                "text": "5只"
+            },
+            {
+                "id": "B",
+                "text": "6只"
+            },
+            {
+                "id": "C",
+                "text": "7只"
+            },
+            {
+                "id": "D",
+                "text": "8只"
+            }
+        ],
+        "examId": "20240825-ldl-33",
+        "type": "单选题",
+        "standardAnswer": "D",
+        "difficulty": "较难",
+        "analysis": "由题意可以知道，每只小猫都会分身，4只小猫分身后又多4只，第3次后有8只小猫。",
+        "studentAnswer": "D",
+        "studentScore": 2,
+        "graded": "已评分",
+        "evaluation": ""
+    },
+    {
+        "id": 25,
+        "title": "星星、圆圈、三角的关系如下图所示，请问星星，圆圈，三角分别是多少？（ ）",
+        "image": "202412图形化一级.files/202412图形化一级8940.png",
+        "options": [
+            {
+                "id": "A",
+                "text": "星星=7 圆圈=6 三角=9"
+            },
+            {
+                "id": "B",
+                "text": "星星=6 圆圈=7 三角=8"
+            },
+            {
+                "id": "C",
+                "text": "星星=7 圆圈=5 三角=10}"
+            },
+            {
+                "id": "D",
+                "text": "星星=5 圆圈=8 三角=10"
+            }
+        ],
+        "examId": "20240825-ldl-34",
+        "type": "单选题",
+        "standardAnswer": "A",
+        "difficulty": "一般",
+        "analysis": "由题意可知：星星=7，圆圈=6，三角=9",
+        "studentAnswer": "A",
+        "studentScore": 2,
+        "graded": "已评分",
+        "evaluation": ""
+    },
+    {
+        "id": 26,
+        "title": "“音乐”的时长是5秒，运行下列程序，声音播放2秒还没等播完就停止了。（ ）",
+        "image": "202412图形化一级.files/202412图形化一级9328.png",
+        "options": [
+            {
+                "id": "A",
+                "text": "正确"
+            },
+            {
+                "id": "B",
+                "text": "错误"
+            }
+        ],
+        "examId": "202408-29",
+        "type": "判断题",
+        "standardAnswer": "正确",
+        "difficulty": "容易",
+        "analysis": "正确，程序播放两秒后就会被停止。",
+        "studentAnswer": "错误",
+        "studentScore": 0,
+        "graded": "已评分",
+        "evaluation": ""
+    },
+    {
+        "id": 27,
+        "title": "点击红框处，可以给小猫角色上传新的造型。（ ）",
+        "image": "202412图形化一级.files/202412图形化一级9544.png",
+        "options": [
+            {
+                "id": "A",
+                "text": "正确"
+            },
+            {
+                "id": "B",
+                "text": "错误"
+            }
+        ],
+        "examId": "20240820-gh-012",
+        "type": "判断题",
+        "standardAnswer": "错误",
+        "difficulty": "一般",
+        "analysis": "红框处的小猫头像会上传新的角色。给现有角色继续上传新造型，需要点击该角色造型编辑器的小猫头像。",
+        "studentAnswer": "错误",
+        "studentScore": 2,
+        "graded": "已评分",
+        "evaluation": ""
+    },
+    {
+        "id": 28,
+        "title": "苹果的初始位置在舞台中间，按下上、下、左、右键控制苹果移动，角色区红框处的数字也会相应发生变化。（ ）",
+        "image": "202412图形化一级.files/202412图形化一级9825.png",
+        "options": [
+            {
+                "id": "A",
+                "text": "正确"
+            },
+            {
+                "id": "B",
+                "text": "错误"
+            }
+        ],
+        "examId": "20240820-gh-013",
+        "type": "判断题",
+        "standardAnswer": "正确",
+        "difficulty": "一般",
+        "analysis": "正确，角色区的坐标会随着角色移动而改变。",
+        "studentAnswer": "正确",
+        "studentScore": 2,
+        "graded": "已评分",
+        "evaluation": ""
+    }
+]

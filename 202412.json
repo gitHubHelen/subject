@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "点击下列哪个按钮，可以将红框处的程序放大？（ ）",
+        "image": "202412图形化一级.files/202412图形化一级28.png",
+        "options": [
+            {
+                "id": "A",
+                "image": "202412图形化一级.files/202412图形化一级66.png"
+            },
+            {
+                "id": "B",
+                "image": "202412图形化一级.files/202412图形化一级103.png"
+            },
+            {
+                "id": "C",
+                "image": "202412图形化一级.files/202412图形化一级140.png"
+            },
+            {
+                "id": "D",
+                "image": "202412图形化一级.files/202412图形化一级177.png"
+            }
+        ],
+        "examId": "20240820-gh-001",
+        "type": "单选题",
+        "correctAnswer": "A",
+        "difficulty": "一般",
+        "explanation": "A选项可以放大程序或积木，B选项可以缩小程序或积木，C选项可以将程序或积木还原为默认大小，D选项可以全屏显示舞台区。",
+        "studentAnswer": "A",
+        "studentScore": 2,
+        "graded": "已评分",
+        "evaluation": ""
+    },
+    {
+        "id": 28,
+        "title": "苹果的初始位置在舞台中间，按下上、下、左、右键控制苹果移动，角色区红框处的数字也会相应发生变化。（ ）",
+        "image": "202412图形化一级.files/202412图形化一级9825.png",
+        "options": [
+            {
+                "id": "A",
+                "text": "正确"
+            },
+            {
+                "id": "B",
+                "text": "错误"
+            }
+        ],
+        "examId": "20240820-gh-013",
+        "type": "判断题",
+        "correctAnswer": "正确",
+        "difficulty": "一般",
+        "explanation": "正确，角色区的坐标会随着角色移动而改变。",
+        "studentAnswer": "正确",
+        "studentScore": 2,
+        "graded": "已评分",
+        "evaluation": ""
+    }
+]
