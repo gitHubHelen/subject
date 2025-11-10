@@ -23,13 +23,9 @@
         ],
         "examId": "20240820-gh-001",
         "type": "单选题",
-        "standardAnswer": "A",
+        "correctAnswer": "A",
         "difficulty": "一般",
-        "analysis": "A选项可以放大程序或积木，B选项可以缩小程序或积木，C选项可以将程序或积木还原为默认大小，D选项可以全屏显示舞台区。",
-        "studentAnswer": "A",
-        "studentScore": 2,
-        "graded": "已评分",
-        "evaluation": ""
+        "explanation": "A选项可以放大程序或积木，B选项可以缩小程序或积木，C选项可以将程序或积木还原为默认大小，D选项可以全屏显示舞台区。"
     },
     {
         "id": 2,
@@ -55,13 +51,9 @@
         ],
         "examId": "20240820-gh-002",
         "type": "单选题",
-        "standardAnswer": "A",
+        "correctAnswer": "A",
         "difficulty": "容易",
-        "analysis": "舞台区以小舞台模式显示时舞台区域变小，编程区域变大。 B选项是正常模式，舞台区域与编程区域大小适中；C选项是全屏模式，舞台区域变大，编程区域消失；D选项是取消全屏模式。",
-        "studentAnswer": "D",
-        "studentScore": 0,
-        "graded": "已评分",
-        "evaluation": ""
+        "explanation": "舞台区以小舞台模式显示时舞台区域变小，编程区域变大。 B选项是正常模式，舞台区域与编程区域大小适中；C选项是全屏模式，舞台区域变大，编程区域消失；D选项是取消全屏模式。"
     },
     {
         "id": 3,
@@ -87,13 +79,9 @@
         ],
         "examId": "20240820-gh-003",
         "type": "单选题",
-        "standardAnswer": "D",
+        "correctAnswer": "D",
         "difficulty": "容易",
-        "analysis": "A区域是积木区，B区域是脚本区，C区域是舞台区，D区域是角色区。",
-        "studentAnswer": "D",
-        "studentScore": 2,
-        "graded": "已评分",
-        "evaluation": ""
+        "explanation": "A区域是积木区，B区域是脚本区，C区域是舞台区，D区域是角色区。"
     },
     {
         "id": 4,
@@ -119,13 +107,9 @@
         ],
         "examId": "20240820-gh-009",
         "type": "单选题",
-        "standardAnswer": "B",
+        "correctAnswer": "B",
         "difficulty": "一般",
-        "analysis": "最后一个背景的下一个背景是第一个背景。",
-        "studentAnswer": "B",
-        "studentScore": 2,
-        "graded": "已评分",
-        "evaluation": ""
+        "explanation": "最后一个背景的下一个背景是第一个背景。"
     },
     {
         "id": 5,
@@ -151,13 +135,9 @@
         ],
         "examId": "20240820-gh-011",
         "type": "单选题",
-        "standardAnswer": "C",
+        "correctAnswer": "C",
         "difficulty": "容易",
-        "analysis": "潜水员海底探险的小程序中，需要有潜水员角色和海底的背景。",
-        "studentAnswer": "C",
-        "studentScore": 2,
-        "graded": "已评分",
-        "evaluation": ""
+        "explanation": "潜水员海底探险的小程序中，需要有潜水员角色和海底的背景。"
     },
     {
         "id": 6,
@@ -183,13 +163,9 @@
         ],
         "examId": "20240820-gh-026",
         "type": "单选题",
-        "standardAnswer": "C",
+        "correctAnswer": "C",
         "difficulty": "容易",
-        "analysis": "点击声音菜单中的录制按钮，可以录制声音。",
-        "studentAnswer": "C",
-        "studentScore": 2,
-        "graded": "已评分",
-        "evaluation": ""
+        "explanation": "点击声音菜单中的录制按钮，可以录制声音。"
     },
     {
         "id": 7,
@@ -215,13 +191,9 @@
         ],
         "examId": "20240820-gh-027",
         "type": "单选题",
-        "standardAnswer": "B",
+        "correctAnswer": "B",
         "difficulty": "容易",
-        "analysis": "程序按顺序从上到下执行，先播放声音“Dance Magic”，等待声音完整播完后，才会执行切换击球造型的操作。",
-        "studentAnswer": "B",
-        "studentScore": 2,
-        "graded": "已评分",
-        "evaluation": ""
+        "explanation": "程序按顺序从上到下执行，先播放声音“Dance Magic”，等待声音完整播完后，才会执行切换击球造型的操作。"
     },
     {
         "id": 8,
@@ -247,13 +219,9 @@
         ],
         "examId": "20240820-gh-028",
         "type": "单选题",
-        "standardAnswer": "C",
+        "correctAnswer": "C",
         "difficulty": "一般",
-        "analysis": "音效的增减不会影响音量的高低。声音音量值的范围为0-100，按下空格键后音量会从100变为60。",
-        "studentAnswer": "C",
-        "studentScore": 2,
-        "graded": "已评分",
-        "evaluation": ""
+        "explanation": "音效的增减不会影响音量的高低。声音音量值的范围为0-100，按下空格键后音量会从100变为60。"
     },
     {
         "id": 9,
@@ -279,13 +247,9 @@
         ],
         "examId": "20240823-ws-004",
         "type": "单选题",
-        "standardAnswer": "A",
+        "correctAnswer": "A",
         "difficulty": "一般",
-        "analysis": "选项A运行程序后让小狗目视着桌子向后倒着走路；选项B运行程序后让小狗目视着桌子向前正着走路；选项C运行程序后让小狗倒立尾巴朝向桌子，正向桌子走路；选项D运行程序后让小狗倒立尾巴朝向桌子，反向桌子走路。因此选项A正确。",
-        "studentAnswer": "D",
-        "studentScore": 0,
-        "graded": "已评分",
-        "evaluation": ""
+        "explanation": "选项A运行程序后让小狗目视着桌子向后倒着走路；选项B运行程序后让小狗目视着桌子向前正着走路；选项C运行程序后让小狗倒立尾巴朝向桌子，正向桌子走路；选项D运行程序后让小狗倒立尾巴朝向桌子，反向桌子走路。因此选项A正确。"
     },
     {
         "id": 10,
@@ -311,13 +275,9 @@
         ],
         "examId": "20240823-ws-008",
         "type": "单选题",
-        "standardAnswer": "A",
+        "correctAnswer": "A",
         "difficulty": "一般",
-        "analysis": "选项A按下空格键后，篮球会从球筐中掉落到地上再弹回空中，符合题意；选项B按下空格键后，篮球会从球筐中弹到舞台左上角；选项C按下空格键后，篮球会从球筐中掉落到地上再移动到舞台右侧；选项D，按下空格键后，篮球会从球筐中掉落到地上再移动到舞台左侧。因此选项A正确。",
-        "studentAnswer": "A",
-        "studentScore": 2,
-        "graded": "已评分",
-        "evaluation": ""
+        "explanation": "选项A按下空格键后，篮球会从球筐中掉落到地上再弹回空中，符合题意；选项B按下空格键后，篮球会从球筐中弹到舞台左上角；选项C按下空格键后，篮球会从球筐中掉落到地上再移动到舞台右侧；选项D，按下空格键后，篮球会从球筐中掉落到地上再移动到舞台左侧。因此选项A正确。"
     },
     {
         "id": 11,
@@ -343,13 +303,9 @@
         ],
         "examId": "20240823-ws-009",
         "type": "单选题",
-        "standardAnswer": "B",
+        "correctAnswer": "B",
         "difficulty": "一般",
-        "analysis": "选项A角色被点击后，角色等待一会后从舞台左侧移动到黑板前，再等待一会后切换下一个造型；选项B按下空格键后，角色从舞台左侧移动到黑板前，再等待一会后切换下一个造型，符合题意；选项C角色被点击后，角色等待一会后切换下一个造型，再等待一会后从舞台左侧移动到黑板前；选项D按下空格键后，角色等待一会后切换下一个造型，再等待一会后从舞台左侧移动到黑板前。因此选项B正确。",
-        "studentAnswer": "B",
-        "studentScore": 2,
-        "graded": "已评分",
-        "evaluation": ""
+        "explanation": "选项A角色被点击后，角色等待一会后从舞台左侧移动到黑板前，再等待一会后切换下一个造型；选项B按下空格键后，角色从舞台左侧移动到黑板前，再等待一会后切换下一个造型，符合题意；选项C角色被点击后，角色等待一会后切换下一个造型，再等待一会后从舞台左侧移动到黑板前；选项D按下空格键后，角色等待一会后切换下一个造型，再等待一会后从舞台左侧移动到黑板前。因此选项B正确。"
     },
     {
         "id": 12,
@@ -375,13 +331,9 @@
         ],
         "examId": "20240823-ws-010",
         "type": "单选题",
-        "standardAnswer": "C",
+        "correctAnswer": "C",
         "difficulty": "一般",
-        "analysis": "选项A按下空格键后，大象向舞台左侧移动后能吃到橙子；选项B按下空格键后，大象向舞台左侧移动后能吃到草莓；选项C按下空格键后，大象向舞台右侧移动后能吃到苹果，符合题意；选项D按下空格键后，大象向舞台右侧移动后能吃到香蕉。因此选项C正确。",
-        "studentAnswer": "D",
-        "studentScore": 0,
-        "graded": "已评分",
-        "evaluation": ""
+        "explanation": "选项A按下空格键后，大象向舞台左侧移动后能吃到橙子；选项B按下空格键后，大象向舞台左侧移动后能吃到草莓；选项C按下空格键后，大象向舞台右侧移动后能吃到苹果，符合题意；选项D按下空格键后，大象向舞台右侧移动后能吃到香蕉。因此选项C正确。"
     },
     {
         "id": 13,
@@ -407,13 +359,9 @@
         ],
         "examId": "20240823-ws-014",
         "type": "单选题",
-        "standardAnswer": "C",
+        "correctAnswer": "C",
         "difficulty": "一般",
-        "analysis": "根据题意，选项A和选项B会切换背景图片；选项D会切换到下一个造型就是第二个造型；选项C会切换到第三个造型，所以选择C可以实现效果。",
-        "studentAnswer": "C",
-        "studentScore": 2,
-        "graded": "已评分",
-        "evaluation": ""
+        "explanation": "根据题意，选项A和选项B会切换背景图片；选项D会切换到下一个造型就是第二个造型；选项C会切换到第三个造型，所以选择C可以实现效果。"
     },
     {
         "id": 14,
@@ -439,13 +387,9 @@
         ],
         "examId": "20240823-ws-020",
         "type": "单选题",
-        "standardAnswer": "C",
+        "correctAnswer": "C",
         "difficulty": "一般",
-        "analysis": "根据题意，运行程序后，换成中长发后的下两个造型是超短发，换成超短发后的下一个造型是短发，换成短发后的下一个造型是中长发，换成长发后的下两个造型是短发。因此C选项正确。",
-        "studentAnswer": "C",
-        "studentScore": 2,
-        "graded": "已评分",
-        "evaluation": ""
+        "explanation": "根据题意，运行程序后，换成中长发后的下两个造型是超短发，换成超短发后的下一个造型是短发，换成短发后的下一个造型是中长发，换成长发后的下两个造型是短发。因此C选项正确。"
     },
     {
         "id": 15,
@@ -471,13 +415,9 @@
         ],
         "examId": "20240823-ws-024",
         "type": "单选题",
-        "standardAnswer": "C",
+        "correctAnswer": "C",
         "difficulty": "一般",
-        "analysis": "根据题意，观察这串珠子的排列规律，是两种珠子间隔排，1黄1蓝、2黄2蓝、3黄3蓝……也就是黄珠子和蓝珠子都是每次增加1颗，且颗数相同。那么第三组是3黄3蓝，已经有1颗蓝珠子在外面，所以应该有2颗蓝珠子在盒子里。第四组是4黄4蓝，有2颗黄珠子在外面，应该还有2颗黄珠子在盒子里面。因此C选项正确。",
-        "studentAnswer": "D",
-        "studentScore": 0,
-        "graded": "已评分",
-        "evaluation": ""
+        "explanation": "根据题意，观察这串珠子的排列规律，是两种珠子间隔排，1黄1蓝、2黄2蓝、3黄3蓝……也就是黄珠子和蓝珠子都是每次增加1颗，且颗数相同。那么第三组是3黄3蓝，已经有1颗蓝珠子在外面，所以应该有2颗蓝珠子在盒子里。第四组是4黄4蓝，有2颗黄珠子在外面，应该还有2颗黄珠子在盒子里面。因此C选项正确。"
     },
     {
         "id": 16,
@@ -503,13 +443,9 @@
         ],
         "examId": "20240823-ws-028",
         "type": "单选题",
-        "standardAnswer": "B",
+        "correctAnswer": "B",
         "difficulty": "一般",
-        "analysis": "根据题意，选项A只能听到一声“滴”后立刻停止，无法实现同时播放完声音文件“笑声”和“哭声”效果；选项B实现同时播放完声音文件“笑声”和“哭声”效果；选项C和选项D都是声音文件“笑声”播放完后再播放声音文件“哭声”。因此B选项正确。",
-        "studentAnswer": "B",
-        "studentScore": 2,
-        "graded": "已评分",
-        "evaluation": ""
+        "explanation": "根据题意，选项A只能听到一声“滴”后立刻停止，无法实现同时播放完声音文件“笑声”和“哭声”效果；选项B实现同时播放完声音文件“笑声”和“哭声”效果；选项C和选项D都是声音文件“笑声”播放完后再播放声音文件“哭声”。因此B选项正确。"
     },
     {
         "id": 17,
@@ -535,13 +471,9 @@
         ],
         "examId": "20240825-ldl-005",
         "type": "单选题",
-        "standardAnswer": "A",
+        "correctAnswer": "A",
         "difficulty": "较难",
-        "analysis": "实现的功能是“点击衣服变换造型”，那么程序要写在衣服角色下才能生效",
-        "studentAnswer": "A",
-        "studentScore": 2,
-        "graded": "已评分",
-        "evaluation": ""
+        "explanation": "实现的功能是“点击衣服变换造型”，那么程序要写在衣服角色下才能生效"
     },
     {
         "id": 18,
@@ -567,13 +499,9 @@
         ],
         "examId": "20240825-ldl-007",
         "type": "单选题",
-        "standardAnswer": "C",
+        "correctAnswer": "C",
         "difficulty": "较难",
-        "analysis": "阅读程序，执行换造型命令3次，换背景1次。造型切换三次变成螃蟹造型，背景切换1次是换成农场造型。",
-        "studentAnswer": "C",
-        "studentScore": 2,
-        "graded": "已评分",
-        "evaluation": ""
+        "explanation": "阅读程序，执行换造型命令3次，换背景1次。造型切换三次变成螃蟹造型，背景切换1次是换成农场造型。"
     },
     {
         "id": 19,
@@ -599,13 +527,9 @@
         ],
         "examId": "20240825-ldl-008",
         "type": "单选题",
-        "standardAnswer": "A",
+        "correctAnswer": "A",
         "difficulty": "较难",
-        "analysis": "角色现在的造型是网球，每按一次空格变换两次造型，造型会换为棒球造型。",
-        "studentAnswer": "A",
-        "studentScore": 2,
-        "graded": "已评分",
-        "evaluation": ""
+        "explanation": "角色现在的造型是网球，每按一次空格变换两次造型，造型会换为棒球造型。"
     },
     {
         "id": 20,
@@ -631,13 +555,9 @@
         ],
         "examId": "20240825-ldl-015",
         "type": "单选题",
-        "standardAnswer": "B",
+        "correctAnswer": "B",
         "difficulty": "一般",
-        "analysis": "如图所示，北面在图形化编程中是0方向，南是180方向，西是-90方向，东是90方向。要让小猫面向西，那么应该面向-90。",
-        "studentAnswer": "B",
-        "studentScore": 2,
-        "graded": "已评分",
-        "evaluation": ""
+        "explanation": "如图所示，北面在图形化编程中是0方向，南是180方向，西是-90方向，东是90方向。要让小猫面向西，那么应该面向-90。"
     },
     {
         "id": 21,
@@ -663,13 +583,9 @@
         ],
         "examId": "20240825-ldl-016",
         "type": "单选题",
-        "standardAnswer": "D",
+        "correctAnswer": "D",
         "difficulty": "一般",
-        "analysis": "要让小老鼠吃到蛋糕，首先需要验证当前方向移动100步，接着向-90方向移动100步，最后再向0方向移动100步。",
-        "studentAnswer": "D",
-        "studentScore": 2,
-        "graded": "已评分",
-        "evaluation": ""
+        "explanation": "要让小老鼠吃到蛋糕，首先需要验证当前方向移动100步，接着向-90方向移动100步，最后再向0方向移动100步。"
     },
     {
         "id": 22,
@@ -695,13 +611,9 @@
         ],
         "examId": "20240825-ldl-024",
         "type": "单选题",
-        "standardAnswer": "D",
+        "correctAnswer": "D",
         "difficulty": "较难",
-        "analysis": "角色的旋转模式不影响角色的方向，因此正确答案是D.",
-        "studentAnswer": "B",
-        "studentScore": 0,
-        "graded": "已评分",
-        "evaluation": ""
+        "explanation": "角色的旋转模式不影响角色的方向，因此正确答案是D."
     },
     {
         "id": 23,
@@ -727,13 +639,9 @@
         ],
         "examId": "20240825-ldl-31",
         "type": "单选题",
-        "standardAnswer": "C",
+        "correctAnswer": "C",
         "difficulty": "一般",
-        "analysis": "由题意知道他爬一层楼的时间是1分钟。从一楼上到六楼，他需要爬5层楼所以，他需要5分钟。",
-        "studentAnswer": "C",
-        "studentScore": 2,
-        "graded": "已评分",
-        "evaluation": ""
+        "explanation": "由题意知道他爬一层楼的时间是1分钟。从一楼上到六楼，他需要爬5层楼所以，他需要5分钟。"
     },
     {
         "id": 24,
@@ -759,13 +667,9 @@
         ],
         "examId": "20240825-ldl-33",
         "type": "单选题",
-        "standardAnswer": "D",
+        "correctAnswer": "D",
         "difficulty": "较难",
-        "analysis": "由题意可以知道，每只小猫都会分身，4只小猫分身后又多4只，第3次后有8只小猫。",
-        "studentAnswer": "D",
-        "studentScore": 2,
-        "graded": "已评分",
-        "evaluation": ""
+        "explanation": "由题意可以知道，每只小猫都会分身，4只小猫分身后又多4只，第3次后有8只小猫。"
     },
     {
         "id": 25,
@@ -791,13 +695,9 @@
         ],
         "examId": "20240825-ldl-34",
         "type": "单选题",
-        "standardAnswer": "A",
+        "correctAnswer": "A",
         "difficulty": "一般",
-        "analysis": "由题意可知：星星=7，圆圈=6，三角=9",
-        "studentAnswer": "A",
-        "studentScore": 2,
-        "graded": "已评分",
-        "evaluation": ""
+        "explanation": "由题意可知：星星=7，圆圈=6，三角=9"
     },
     {
         "id": 26,
@@ -815,13 +715,9 @@
         ],
         "examId": "202408-29",
         "type": "判断题",
-        "standardAnswer": "正确",
+        "correctAnswer": "正确",
         "difficulty": "容易",
-        "analysis": "正确，程序播放两秒后就会被停止。",
-        "studentAnswer": "错误",
-        "studentScore": 0,
-        "graded": "已评分",
-        "evaluation": ""
+        "explanation": "正确，程序播放两秒后就会被停止。"
     },
     {
         "id": 27,
@@ -839,13 +735,9 @@
         ],
         "examId": "20240820-gh-012",
         "type": "判断题",
-        "standardAnswer": "错误",
+        "correctAnswer": "错误",
         "difficulty": "一般",
-        "analysis": "红框处的小猫头像会上传新的角色。给现有角色继续上传新造型，需要点击该角色造型编辑器的小猫头像。",
-        "studentAnswer": "错误",
-        "studentScore": 2,
-        "graded": "已评分",
-        "evaluation": ""
+        "explanation": "红框处的小猫头像会上传新的角色。给现有角色继续上传新造型，需要点击该角色造型编辑器的小猫头像。"
     },
     {
         "id": 28,
@@ -863,12 +755,68 @@
         ],
         "examId": "20240820-gh-013",
         "type": "判断题",
-        "standardAnswer": "正确",
+        "correctAnswer": "正确",
         "difficulty": "一般",
-        "analysis": "正确，角色区的坐标会随着角色移动而改变。",
-        "studentAnswer": "正确",
-        "studentScore": 2,
-        "graded": "已评分",
-        "evaluation": ""
+        "explanation": "正确，角色区的坐标会随着角色移动而改变。"
+    },
+    {
+        "id": 29,
+        "title": "点击下面积木的白色小三角，除了可以选择造型名称，还可以选择“上一个造型”、“下一个造型”或“随机造型”。（ ）",
+        "image": "202412图形化一级.files/202412图形化一级10105.png",
+        "options": [
+            {
+                "id": "A",
+                "text": "正确"
+            },
+            {
+                "id": "B",
+                "text": "错误"
+            }
+        ],
+        "examId": "20240823-ws-011",
+        "type": "判断题",
+        "correctAnswer": "错误",
+        "difficulty": "一般",
+        "explanation": "角色造型切换，在下拉列表中只能根据名称切换造型，除此之外可以使用“下一个造型”指令， 按造型顺序进行切换。因此本题错误"
+    },
+    {
+        "id": 30,
+        "title": "一根木头每锯一次用 3 分钟，如果把这根木头锯成了 6 段，一共需要用 18 分钟。（ ）",
+        "image": "",
+        "options": [
+            {
+                "id": "A",
+                "text": "正确"
+            },
+            {
+                "id": "B",
+                "text": "错误"
+            }
+        ],
+        "examId": "20240823-ws-021",
+        "type": "判断题",
+        "correctAnswer": "错误",
+        "difficulty": "一般",
+        "explanation": "根据题意，要把一根木头锯成了 6 段，需要锯 5 次，每锯一次用 3 分钟，一共需要用 15 分钟。因此本题错误"
+    },
+    {
+        "id": 31,
+        "title": "下图所示的两个“复制”效果一样。（ ）",
+        "image": "202412图形化一级.files/202412图形化一级10636.png",
+        "options": [
+            {
+                "id": "A",
+                "text": "正确"
+            },
+            {
+                "id": "B",
+                "text": "错误"
+            }
+        ],
+        "examId": "20240823-ws-026",
+        "type": "判断题",
+        "correctAnswer": "错误",
+        "difficulty": "一般",
+        "explanation": "根据题意，在“声音”选项卡中，第 1 个“复制”命令，复制后可以直接生成另一个声音文件“喵 2”；第 2 个“复制”命令，复制后需要使用“粘贴”命令配合使用，复制后的内容只会存储在原来的声音文件“喵”中，不会有新的声音文件出现。因此本题错误。"
     }
 ]
