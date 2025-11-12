@@ -715,7 +715,7 @@
         ],
         "examId": "202408-29",
         "type": "判断题",
-        "correctAnswer": "正确",
+        "correctAnswer": "A",
         "difficulty": "容易",
         "explanation": "正确，程序播放两秒后就会被停止。"
     },
@@ -735,7 +735,7 @@
         ],
         "examId": "20240820-gh-012",
         "type": "判断题",
-        "correctAnswer": "错误",
+        "correctAnswer": "B",
         "difficulty": "一般",
         "explanation": "红框处的小猫头像会上传新的角色。给现有角色继续上传新造型，需要点击该角色造型编辑器的小猫头像。"
     },
@@ -755,7 +755,7 @@
         ],
         "examId": "20240820-gh-013",
         "type": "判断题",
-        "correctAnswer": "正确",
+        "correctAnswer": "A",
         "difficulty": "一般",
         "explanation": "正确，角色区的坐标会随着角色移动而改变。"
     },
@@ -775,7 +775,7 @@
         ],
         "examId": "20240823-ws-011",
         "type": "判断题",
-        "correctAnswer": "错误",
+        "correctAnswer": "B",
         "difficulty": "一般",
         "explanation": "角色造型切换，在下拉列表中只能根据名称切换造型，除此之外可以使用“下一个造型”指令， 按造型顺序进行切换。因此本题错误"
     },
@@ -795,7 +795,7 @@
         ],
         "examId": "20240823-ws-021",
         "type": "判断题",
-        "correctAnswer": "错误",
+        "correctAnswer": "B",
         "difficulty": "一般",
         "explanation": "根据题意，要把一根木头锯成了 6 段，需要锯 5 次，每锯一次用 3 分钟，一共需要用 15 分钟。因此本题错误"
     },
@@ -815,7 +815,7 @@
         ],
         "examId": "20240823-ws-026",
         "type": "判断题",
-        "correctAnswer": "错误",
+        "correctAnswer": "B",
         "difficulty": "一般",
         "explanation": "根据题意，在“声音”选项卡中，第 1 个“复制”命令，复制后可以直接生成另一个声音文件“喵 2”；第 2 个“复制”命令，复制后需要使用“粘贴”命令配合使用，复制后的内容只会存储在原来的声音文件“喵”中，不会有新的声音文件出现。因此本题错误。"
     }

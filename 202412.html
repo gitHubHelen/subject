@@ -312,8 +312,8 @@
         </div>
 
         <div class="exam-info">
-            <div>试题总数: <span id="total-titles">7</span></div>
-            <div>总分: 14分</div>
+            <div>试题总数: <span id="total-titles">10</span></div>
+            <div>总分: 20分</div>
             <div>考试时间: 15分钟</div>
         </div>
 
@@ -406,12 +406,15 @@
                     </div>
                 `;
 
-                if (title.image) {
+                if (title.image[0]) {
                     titleHTML += `
                         <div class="title-image">
-                            <img src="${title.image}" alt="题目图片">
-                        </div>
+                            <img src="${title.image[0]}" alt="题目图片">
                     `;
+                    if (title.image[1]) {
+                        titleHTML += `<img src="${title.image[1]}" alt="题目图片">
+                        </div>`
+                    }
                 }
 
                 titleHTML += `<div class="options">`;
